@@ -1,5 +1,5 @@
 {
-    "name": "pulkitjalan/laravel-mail-css-inliner",
+    "name": "twine-net/laravel-mail-css-inliner",
     "description": "Automatically inline CSS for Laravel emails",
     "homepage": "https://github.com/pulkitjalan/laravel-mail-css-inliner",
     "keywords": ["laravel", "mailer", "css", "swiftmailer"],
